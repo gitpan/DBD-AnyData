@@ -15,7 +15,7 @@ name: DBD-AnyData
 provides:
   DBD::AnyData:
     file: lib/DBD/AnyData.pm
-    version: 0.10_01
+    version: 0.110
   DBD::AnyData::Statement:
     file: lib/DBD/AnyData.pm
   DBD::AnyData::Table:
@@ -38,4 +38,4 @@ requires:
   SQL::Statement: 1.27_02
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.10_01
+version: 0.110

@@ -28,7 +28,7 @@ require SQL::Eval;
 
 use vars qw($VERSION $err $errstr $sqlstate $drh $methods_already_installed);
 
-$VERSION = '0.10_01';
+$VERSION = '0.110';
 
 $err      = 0;        # holds error code   for DBI::err
 $errstr   = "";       # holds error string for DBI::errstr
